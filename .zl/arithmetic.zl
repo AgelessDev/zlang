@@ -1,0 +1,19 @@
+// Arithmetic operators
+
+x := 10
+y := 20
+
+// Addition
+$x + $y 
+
+// Subtraction
+$x - $y
+
+// Multiplication
+$x * $y
+
+// Division
+%x / $y
+
+// Remainder
+$x % $y
